@@ -1,0 +1,1 @@
+{"title":"Newly finished apartment for rent","address":"King Archil Street Didi Dighomi 4th Microrayon","productId":"15837760","priceUSD":"470","priceGEL":"1,230","bedrooms":1,"rooms":2,"area":"42.00 m²","description":"","location":{"lat":41.7925166,"lng":44.7395589},"flatFloor":11,"totalFloors":11}

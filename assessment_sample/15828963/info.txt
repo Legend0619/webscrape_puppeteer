@@ -1,0 +1,1 @@
+{"title":"Newly finished apartment for rent","address":"29 A. Politkovskaya street","productId":"15828963","priceUSD":"900","priceGEL":"2,360","bedrooms":1,"rooms":2,"area":"65.00 m²","description":"","location":{"lat":41.7206103,"lng":44.7106871},"flatFloor":10,"totalFloors":10}
